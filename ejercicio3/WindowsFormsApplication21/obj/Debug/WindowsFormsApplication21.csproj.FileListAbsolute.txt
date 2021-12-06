@@ -1,0 +1,18 @@
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe.config
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.pdb
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csprojResolveAssemblyReference.cache
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Form1.resources
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Properties.Resources.resources
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csproj.GenerateResource.Cache
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.exe
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.pdb
+C:\Users\Pc Casa\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe.config
+C:\Users\Pc Casa\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.exe
+C:\Users\Pc Casa\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.pdb
+C:\Users\Pc Casa\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe
+C:\Users\Pc Casa\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.pdb
+C:\Users\Pc Casa\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csprojResolveAssemblyReference.cache
+C:\Users\Pc Casa\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Form1.resources
+C:\Users\Pc Casa\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Properties.Resources.resources
+C:\Users\Pc Casa\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csproj.GenerateResource.Cache
